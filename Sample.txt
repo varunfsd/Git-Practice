@@ -1,1 +1,3 @@
 This is a sample text file to get to know about git pull command
+its updated
+
